@@ -1,0 +1,11 @@
+diff a/src/ForgeBase/project.json b/src/ForgeBase/project.json	(rejected hunks)
+@@ -2,9 +2,5 @@
+ {
+   "dependencies": {
+-    "Microsoft.NETCore.App": {
+-      "version": "1.0.0",
+-      "type": "platform"
+-    },
+     "Microsoft.AspNetCore.Diagnostics": "1.0.0",
+     "Microsoft.AspNetCore.Server.IISIntegration": "1.0.0",
+     "Microsoft.Extensions.Logging.Console": "1.0.0",
